@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This Bash script that pings an IP adress passed as an argument.
+# Bash script that pings 5 times an IP address passed as an argument
 ip=$1
 if [ -z "$ip" ]
 then
